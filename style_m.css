@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(170, 234, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+    text-align: center;
+    background-color: white;
+    margin: 0 50px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+img{
+    border-radius: 10px;
+    width: 1000px;
+    height: auto;
+}
+
+h1{
+    color: blue;
+}
+
+table tr th{
+    border: 1px, solid, white;
+    background-color: blue;
+    color: white;
+}
+
+table td{
+    border: 1px solid white;
+    background-color: rgb(176, 176, 176);
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+span{
+    color: blue;
+}
+
+.box{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+}
+
+.heroes ul{
+    text-align: start;
+}
+
+.power ol{
+    text-align: start;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(128, 126, 126);
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.box h2{
+    color: white;
+}
